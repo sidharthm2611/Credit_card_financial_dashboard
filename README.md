@@ -21,6 +21,7 @@ It helps stakeholders understand revenue drivers, customer segmentation, and spe
 
 # 🚀 Key Features
 📍 Customer Insights
+
 Total Revenue: 55.3M
 Total Interest Earned: 7.8M
 Income Analysis: 576M
