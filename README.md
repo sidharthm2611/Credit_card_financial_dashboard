@@ -13,8 +13,8 @@ It helps stakeholders understand revenue drivers, customer segmentation, and spe
 # 📊 Dashboard Preview
 🔹 Customer Report
 
-![Dashboard](Credit_card_customer_dashboard_page-0001.png)
+![Dashboard](Credit_card_customer_dashboard.png)
 
 🔹 Transaction Report
 
-![Dashboard](Credit_card_transaction_dashboard_page-0001.png)
+![Dashboard](Credit_card_transaction_dashboard.png)
