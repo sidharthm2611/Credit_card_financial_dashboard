@@ -24,8 +24,11 @@ It helps stakeholders understand revenue drivers, customer segmentation, and spe
 # 📍 Customer Insights
 
 Total Revenue: 55.3M
+
 Total Interest Earned: 7.8M
+
 Income Analysis: 576M
+
 Customer Segmentation:
 Age Groups
 Marital Status
