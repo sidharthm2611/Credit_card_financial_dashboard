@@ -34,6 +34,18 @@ Age Groups
 
 Marital Status
 
+# 📍 Transaction Insights
+Total Transaction Amount: 45M
+
+Total Transaction Count: 656K
+
+Revenue by:
+Card Category (Silver, Gold, Platinum, Blue)
+
+Expenditure Type (Bills, Entertainment, Fuel, etc.)
+
+Payment Mode (Swipe, Chip, Online)
+
 Income Groups
 
 Education Levels
