@@ -32,7 +32,13 @@ Income Analysis: 576M
 Customer Segmentation:
 Age Groups
 
+Income Groups
+
+Education Levels
+
 Marital Status
+
+Occupation
 
 # 📍 Transaction Insights
 Total Transaction Amount: 45M
@@ -46,8 +52,21 @@ Expenditure Type (Bills, Entertainment, Fuel, etc.)
 
 Payment Mode (Swipe, Chip, Online)
 
-Income Groups
 
-Education Levels
+# 📈 Key Insights
+Businessmen and White-collar customers generate the highest revenue.
 
-Occupation
+High-income group contributes significantly more compared to medium and low groups.
+
+Swipe transactions dominate over chip and online payments.
+
+Bills and entertainment are the top spending categories.
+
+Q3 shows peak revenue, indicating seasonal trends.
+
+# 🛠️ Tools & Technologies
+Power BI – Dashboard creation & visualization
+
+Excel / CSV – Data source
+
+DAX – Data modeling and calculations
