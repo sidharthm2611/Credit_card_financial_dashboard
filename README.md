@@ -31,7 +31,11 @@ Income Analysis: 576M
 
 Customer Segmentation:
 Age Groups
+
 Marital Status
+
 Income Groups
+
 Education Levels
+
 Occupation
